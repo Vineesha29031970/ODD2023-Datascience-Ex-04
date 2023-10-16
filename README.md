@@ -165,7 +165,7 @@ sns.heatmap(df.corr(),annot=True)
 <img width="945" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-04/assets/133136880/4ad4cfeb-7e28-4a8a-8269-9ce7760a23e7">
 
 
-<img width="965" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-04/assets/133136880/5da841e3-1e55-4689-9cdc-e4f9eeda7f52">
+<img width="820" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-04/assets/133136880/5da841e3-1e55-4689-9cdc-e4f9eeda7f52">
 
 
 # Result:
