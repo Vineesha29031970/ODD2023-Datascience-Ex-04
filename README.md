@@ -116,48 +116,48 @@ sns.heatmap(df.corr(),annot=True)
 <img width="715" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-04/assets/133136880/20dcf804-d218-4d9e-a025-244c719cd91a">
 
 
-<img width="725" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-04/assets/133136880/11d7d840-622a-41ac-8c7a-b1a1a2ac92b2">
+<img width="735" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-04/assets/133136880/11d7d840-622a-41ac-8c7a-b1a1a2ac92b2">
 
 
-<img width="735" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-04/assets/133136880/6845e99e-0122-401e-a70c-a96b020f7ef6">
+<img width="755" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-04/assets/133136880/6845e99e-0122-401e-a70c-a96b020f7ef6">
 
 
-<img width="745" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-04/assets/133136880/128edf9b-b3eb-412f-838a-1be6ddd0ab13">
+<img width="775" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-04/assets/133136880/128edf9b-b3eb-412f-838a-1be6ddd0ab13">
 
 
-<img width="755" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-04/assets/133136880/67d3ca1c-7d56-43d5-afad-323621fdc2ea">
+<img width="795" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-04/assets/133136880/67d3ca1c-7d56-43d5-afad-323621fdc2ea">
 
 
-<img width="765" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-04/assets/133136880/e09d35f3-1cdd-41bf-b740-64544375ca56">
+<img width="815" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-04/assets/133136880/e09d35f3-1cdd-41bf-b740-64544375ca56">
 
 
-<img width="775" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-04/assets/133136880/bb8daa54-57a1-4fc0-bd8e-afaf3f548a83">
+<img width="825" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-04/assets/133136880/bb8daa54-57a1-4fc0-bd8e-afaf3f548a83">
 
 
 # DIABETES OUTPUT:
 
-<img width="785" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-04/assets/133136880/8a7cfa13-f795-492b-a2a1-0e98de0ea5e0">
+<img width="845" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-04/assets/133136880/8a7cfa13-f795-492b-a2a1-0e98de0ea5e0">
 
 
-<img width="795" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-04/assets/133136880/40510904-bb2e-435a-b548-cd2857b08759">
+<img width="865" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-04/assets/133136880/40510904-bb2e-435a-b548-cd2857b08759">
 
 
-<img width="815" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-04/assets/133136880/553ecf59-8d71-4469-8be1-58f9cc022fb5">
+<img width="885" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-04/assets/133136880/553ecf59-8d71-4469-8be1-58f9cc022fb5">
 
 
-<img width="825" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-04/assets/133136880/08c9640a-9226-47e1-897b-d3a0cabef2f5">
+<img width="895" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-04/assets/133136880/08c9640a-9226-47e1-897b-d3a0cabef2f5">
 
 
-<img width="835" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-04/assets/133136880/55b27a17-5ef8-468a-a75a-d1537f5faf22">
+<img width="915" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-04/assets/133136880/55b27a17-5ef8-468a-a75a-d1537f5faf22">
 
 
-<img width="845" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-04/assets/133136880/43349fdb-fe17-4819-a9a9-c58b1cab980c">
+<img width="925" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-04/assets/133136880/43349fdb-fe17-4819-a9a9-c58b1cab980c">
 
 
-<img width="855" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-04/assets/133136880/4ad4cfeb-7e28-4a8a-8269-9ce7760a23e7">
+<img width="945" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-04/assets/133136880/4ad4cfeb-7e28-4a8a-8269-9ce7760a23e7">
 
 
-<img width="865" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-04/assets/133136880/5da841e3-1e55-4689-9cdc-e4f9eeda7f52">
+<img width="965" alt="image" src="https://github.com/Vineesha29031970/ODD2023-Datascience-Ex-04/assets/133136880/5da841e3-1e55-4689-9cdc-e4f9eeda7f52">
 
 
 # Result:
